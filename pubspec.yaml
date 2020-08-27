@@ -28,6 +28,9 @@ dependencies:
   excel: ^1.0.3
   http: ^0.12.0+4
   archive: ^2.0.11
+  spreadsheet_decoder: ^1.0.9
+  path_provider: ^1.6.14
+  dio: ^3.0.10
 
 dev_dependencies:
   flutter_test:
